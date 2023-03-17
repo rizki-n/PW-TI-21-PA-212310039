@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #faebd7;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #F3F4F5
+}
+
+#project {
+    background-color: #F3F4F5
+}
+
+.link {
+  text-align: none;
+  color: #F3F4F5;
+}
+.link:visited {
+  color: #F3F4F5;
+}
+
+footer {
+  background-color: #faebd7;
+}
+
+footer .a {
+  text-decoration:none ;
+}
+
+section {
+  padding-top: 5rem;
+}
+
